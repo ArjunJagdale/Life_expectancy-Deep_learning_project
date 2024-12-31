@@ -70,3 +70,13 @@ The dataset `life_expectancy.csv` contains various features related to countries
 
 ---
 
+## Model: "sequential"
+
+Layer (type) Output Shape Param #
+input_layer (InputLayer) (None, 21) 0
+
+dense (Dense) (None, 64) 1408
+
+dense_1 (Dense) (None, 1) 65
+Total params: 1,473 Trainable params: 1,473 Non-trainable params: 0
+
