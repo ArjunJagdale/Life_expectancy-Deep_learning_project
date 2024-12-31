@@ -70,4 +70,3 @@ The dataset `life_expectancy.csv` contains various features related to countries
 
 ---
 
-This README provides an overview of the steps taken to preprocess the data, build, and evaluate a simple neural network for life expectancy prediction.
