@@ -1,4 +1,3 @@
-# Life_expectancy-Deep_learning_project
 # Life Expectancy Prediction Model
 
 This project involves building a simple neural network model to predict life expectancy based on various features using a dataset `life_expectancy.csv`. The code goes through the process of loading, preprocessing, training, and evaluating the model using TensorFlow and scikit-learn. Below is a breakdown of the steps followed in the code.
